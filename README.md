@@ -1,1 +1,1 @@
-# Regaining-Synchronization-using-Neural-Network-based-Decoding-Algorithms-for-Permutation-Codes
+# Neural-Network-based-Decoding-Algorithms-for-Permutation-Codes
